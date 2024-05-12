@@ -29,12 +29,13 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by: SYED JAVEED H
+Developed by:SYED JAVEED H
 Registeration Number : 212221220055
 */
 ```
 ## ACTIVITY_MAIN.XML
-```<?xml version="1.0" encoding="utf-8"?>
+```
+<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -155,11 +156,12 @@ public class MainActivity extends Activity {
         }
     }
 }
+
 ```
 
 ## OUTPUT
 
-![image](https://github.com/SyedJaveed786/gallerycontrol/assets/106874713/06cec1b2-9668-4039-b591-dbf816737a8e)
+![326325294-923f5d1c-2643-4f20-a7b0-eb993e04ecb3](https://github.com/yuvaraj-csk/gallerycontrol/assets/134052574/44195254-9af7-4882-a6a1-8d8ae9b1ea28)
 
 
 
